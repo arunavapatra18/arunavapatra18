@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arunava Patra
-- 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Application Development
+- 🌱 I’m currently learning Flutter and Web Development with React.
 
 
 <!---
