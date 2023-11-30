@@ -2,7 +2,7 @@
 - I’m currently working as an Associate Software Engineer, and my work area is virtualization.
 - I’m interested in Application Development.
 - I have explored a little bit of frontend development using ReactJS, and Bulma.
-- At this point, I am learning SpringBoot to learn backend development.
+- At this point, I am learning FastAPI to build robust API-first backends.
 
 
 <!---
